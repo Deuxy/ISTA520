@@ -1,0 +1,958 @@
+[
+  {
+    "SurfaceArea": 0.4,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 1.5,
+    "LifeExpectancy": 78.8
+  },
+  {
+    "SurfaceArea": 6,
+    "LifeExpectancy": 79
+  },
+  {
+    "SurfaceArea": 12,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 14,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 16,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 18,
+    "LifeExpectancy": 81.6
+  },
+  {
+    "SurfaceArea": 21,
+    "LifeExpectancy": 60.8
+  },
+  {
+    "SurfaceArea": 26,
+    "LifeExpectancy": 66.3
+  },
+  {
+    "SurfaceArea": 36,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 49,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 53,
+    "LifeExpectancy": 76.9
+  },
+  {
+    "SurfaceArea": 59,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 61,
+    "LifeExpectancy": 81.1
+  },
+  {
+    "SurfaceArea": 78,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 96,
+    "LifeExpectancy": 76.1
+  },
+  {
+    "SurfaceArea": 102,
+    "LifeExpectancy": 78
+  },
+  {
+    "SurfaceArea": 135,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 151,
+    "LifeExpectancy": 75.4
+  },
+  {
+    "SurfaceArea": 160,
+    "LifeExpectancy": 78.8
+  },
+  {
+    "SurfaceArea": 181,
+    "LifeExpectancy": 65.5
+  },
+  {
+    "SurfaceArea": 193,
+    "LifeExpectancy": 78.4
+  },
+  {
+    "SurfaceArea": 199,
+    "LifeExpectancy": 75.1
+  },
+  {
+    "SurfaceArea": 200,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 236,
+    "LifeExpectancy": 71.1
+  },
+  {
+    "SurfaceArea": 242,
+    "LifeExpectancy": 77.6
+  },
+  {
+    "SurfaceArea": 260,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 261,
+    "LifeExpectancy": 70.7
+  },
+  {
+    "SurfaceArea": 264,
+    "LifeExpectancy": 78.9
+  },
+  {
+    "SurfaceArea": 298,
+    "LifeExpectancy": 62.2
+  },
+  {
+    "SurfaceArea": 314,
+    "LifeExpectancy": 76.8
+  },
+  {
+    "SurfaceArea": 316,
+    "LifeExpectancy": 77.9
+  },
+  {
+    "SurfaceArea": 344,
+    "LifeExpectancy": 64.5
+  },
+  {
+    "SurfaceArea": 347,
+    "LifeExpectancy": 78.1
+  },
+  {
+    "SurfaceArea": 359,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 373,
+    "LifeExpectancy": 59.5
+  },
+  {
+    "SurfaceArea": 388,
+    "LifeExpectancy": 72.3
+  },
+  {
+    "SurfaceArea": 430,
+    "LifeExpectancy": 73
+  },
+  {
+    "SurfaceArea": 430,
+    "LifeExpectancy": 73.3
+  },
+  {
+    "SurfaceArea": 442,
+    "LifeExpectancy": 70.5
+  },
+  {
+    "SurfaceArea": 455,
+    "LifeExpectancy": 70.4
+  },
+  {
+    "SurfaceArea": 459,
+    "LifeExpectancy": 68.6
+  },
+  {
+    "SurfaceArea": 464,
+    "LifeExpectancy": 75.5
+  },
+  {
+    "SurfaceArea": 468,
+    "LifeExpectancy": 83.5
+  },
+  {
+    "SurfaceArea": 549,
+    "LifeExpectancy": 77.8
+  },
+  {
+    "SurfaceArea": 618,
+    "LifeExpectancy": 80.1
+  },
+  {
+    "SurfaceArea": 622,
+    "LifeExpectancy": 72.3
+  },
+  {
+    "SurfaceArea": 650,
+    "LifeExpectancy": 67.9
+  },
+  {
+    "SurfaceArea": 694,
+    "LifeExpectancy": 73
+  },
+  {
+    "SurfaceArea": 702,
+    "LifeExpectancy": 68.6
+  },
+  {
+    "SurfaceArea": 726,
+    "LifeExpectancy": 59.8
+  },
+  {
+    "SurfaceArea": 751,
+    "LifeExpectancy": 73.4
+  },
+  {
+    "SurfaceArea": 800,
+    "LifeExpectancy": 74.7
+  },
+  {
+    "SurfaceArea": 964,
+    "LifeExpectancy": 65.3
+  },
+  {
+    "SurfaceArea": 1075,
+    "LifeExpectancy": 79.5
+  },
+  {
+    "SurfaceArea": 1102,
+    "LifeExpectancy": 78.3
+  },
+  {
+    "SurfaceArea": 1399,
+    "LifeExpectancy": 78.4
+  },
+  {
+    "SurfaceArea": 1705,
+    "LifeExpectancy": 77
+  },
+  {
+    "SurfaceArea": 1862,
+    "LifeExpectancy": 60
+  },
+  {
+    "SurfaceArea": 2040,
+    "LifeExpectancy": 71
+  },
+  {
+    "SurfaceArea": 2510,
+    "LifeExpectancy": 72.7
+  },
+  {
+    "SurfaceArea": 2586,
+    "LifeExpectancy": 77.1
+  },
+  {
+    "SurfaceArea": 2831,
+    "LifeExpectancy": 69.2
+  },
+  {
+    "SurfaceArea": 3903,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 4000,
+    "LifeExpectancy": 74.8
+  },
+  {
+    "SurfaceArea": 4033,
+    "LifeExpectancy": 68.9
+  },
+  {
+    "SurfaceArea": 5130,
+    "LifeExpectancy": 68
+  },
+  {
+    "SurfaceArea": 5765,
+    "LifeExpectancy": 73.6
+  },
+  {
+    "SurfaceArea": 6257,
+    "LifeExpectancy": 71.4
+  },
+  {
+    "SurfaceArea": 7780,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 8875,
+    "LifeExpectancy": 75.6
+  },
+  {
+    "SurfaceArea": 9251,
+    "LifeExpectancy": 76.7
+  },
+  {
+    "SurfaceArea": 10400,
+    "LifeExpectancy": 71.3
+  },
+  {
+    "SurfaceArea": 10990,
+    "LifeExpectancy": 75.2
+  },
+  {
+    "SurfaceArea": 11000,
+    "LifeExpectancy": 72.4
+  },
+  {
+    "SurfaceArea": 11295,
+    "LifeExpectancy": 53.2
+  },
+  {
+    "SurfaceArea": 12173,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 12189,
+    "LifeExpectancy": 60.6
+  },
+  {
+    "SurfaceArea": 13878,
+    "LifeExpectancy": 71.1
+  },
+  {
+    "SurfaceArea": 14874,
+    "LifeExpectancy": 46
+  },
+  {
+    "SurfaceArea": 17364,
+    "LifeExpectancy": 40.4
+  },
+  {
+    "SurfaceArea": 17818,
+    "LifeExpectancy": 76.1
+  },
+  {
+    "SurfaceArea": 18274,
+    "LifeExpectancy": 67.9
+  },
+  {
+    "SurfaceArea": 18575,
+    "LifeExpectancy": 72.8
+  },
+  {
+    "SurfaceArea": 20256,
+    "LifeExpectancy": 74.9
+  },
+  {
+    "SurfaceArea": 21041,
+    "LifeExpectancy": 69.7
+  },
+  {
+    "SurfaceArea": 21056,
+    "LifeExpectancy": 78.6
+  },
+  {
+    "SurfaceArea": 22696,
+    "LifeExpectancy": 70.9
+  },
+  {
+    "SurfaceArea": 23200,
+    "LifeExpectancy": 50.8
+  },
+  {
+    "SurfaceArea": 25713,
+    "LifeExpectancy": 73.8
+  },
+  {
+    "SurfaceArea": 26338,
+    "LifeExpectancy": 39.3
+  },
+  {
+    "SurfaceArea": 27750,
+    "LifeExpectancy": 49.2
+  },
+  {
+    "SurfaceArea": 27834,
+    "LifeExpectancy": 46.2
+  },
+  {
+    "SurfaceArea": 28051,
+    "LifeExpectancy": 53.6
+  },
+  {
+    "SurfaceArea": 28748,
+    "LifeExpectancy": 71.6
+  },
+  {
+    "SurfaceArea": 28896,
+    "LifeExpectancy": 71.3
+  },
+  {
+    "SurfaceArea": 29800,
+    "LifeExpectancy": 66.4
+  },
+  {
+    "SurfaceArea": 30355,
+    "LifeExpectancy": 50.8
+  },
+  {
+    "SurfaceArea": 30518,
+    "LifeExpectancy": 77.8
+  },
+  {
+    "SurfaceArea": 33851,
+    "LifeExpectancy": 64.5
+  },
+  {
+    "SurfaceArea": 36125,
+    "LifeExpectancy": 49
+  },
+  {
+    "SurfaceArea": 36188,
+    "LifeExpectancy": 76.4
+  },
+  {
+    "SurfaceArea": 41284,
+    "LifeExpectancy": 79.6
+  },
+  {
+    "SurfaceArea": 41526,
+    "LifeExpectancy": 78.3
+  },
+  {
+    "SurfaceArea": 43094,
+    "LifeExpectancy": 76.5
+  },
+  {
+    "SurfaceArea": 45227,
+    "LifeExpectancy": 69.5
+  },
+  {
+    "SurfaceArea": 47000,
+    "LifeExpectancy": 52.4
+  },
+  {
+    "SurfaceArea": 48511,
+    "LifeExpectancy": 73.2
+  },
+  {
+    "SurfaceArea": 49012,
+    "LifeExpectancy": 73.7
+  },
+  {
+    "SurfaceArea": 51100,
+    "LifeExpectancy": 75.8
+  },
+  {
+    "SurfaceArea": 51197,
+    "LifeExpectancy": 71.5
+  },
+  {
+    "SurfaceArea": 56538,
+    "LifeExpectancy": 73.7
+  },
+  {
+    "SurfaceArea": 56785,
+    "LifeExpectancy": 54.7
+  },
+  {
+    "SurfaceArea": 62422,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 64589,
+    "LifeExpectancy": 68.4
+  },
+  {
+    "SurfaceArea": 65301,
+    "LifeExpectancy": 69.1
+  },
+  {
+    "SurfaceArea": 65610,
+    "LifeExpectancy": 71.8
+  },
+  {
+    "SurfaceArea": 69700,
+    "LifeExpectancy": 64.5
+  },
+  {
+    "SurfaceArea": 70273,
+    "LifeExpectancy": 76.8
+  },
+  {
+    "SurfaceArea": 71740,
+    "LifeExpectancy": 45.3
+  },
+  {
+    "SurfaceArea": 75517,
+    "LifeExpectancy": 75.5
+  },
+  {
+    "SurfaceArea": 78866,
+    "LifeExpectancy": 74.5
+  },
+  {
+    "SurfaceArea": 83600,
+    "LifeExpectancy": 74.1
+  },
+  {
+    "SurfaceArea": 83859,
+    "LifeExpectancy": 77.7
+  },
+  {
+    "SurfaceArea": 86600,
+    "LifeExpectancy": 62.9
+  },
+  {
+    "SurfaceArea": 88946,
+    "LifeExpectancy": 77.4
+  },
+  {
+    "SurfaceArea": 90000,
+    "LifeExpectancy": 76.1
+  },
+  {
+    "SurfaceArea": 91982,
+    "LifeExpectancy": 75.8
+  },
+  {
+    "SurfaceArea": 93030,
+    "LifeExpectancy": 71.4
+  },
+  {
+    "SurfaceArea": 99434,
+    "LifeExpectancy": 74.4
+  },
+  {
+    "SurfaceArea": 102173,
+    "LifeExpectancy": 72.4
+  },
+  {
+    "SurfaceArea": 103000,
+    "LifeExpectancy": 79.4
+  },
+  {
+    "SurfaceArea": 108889,
+    "LifeExpectancy": 66.2
+  },
+  {
+    "SurfaceArea": 110861,
+    "LifeExpectancy": 76.2
+  },
+  {
+    "SurfaceArea": 110994,
+    "LifeExpectancy": 70.9
+  },
+  {
+    "SurfaceArea": 111369,
+    "LifeExpectancy": 51
+  },
+  {
+    "SurfaceArea": 112088,
+    "LifeExpectancy": 69.9
+  },
+  {
+    "SurfaceArea": 112622,
+    "LifeExpectancy": 50.2
+  },
+  {
+    "SurfaceArea": 117600,
+    "LifeExpectancy": 55.8
+  },
+  {
+    "SurfaceArea": 118484,
+    "LifeExpectancy": 37.6
+  },
+  {
+    "SurfaceArea": 120538,
+    "LifeExpectancy": 70.7
+  },
+  {
+    "SurfaceArea": 130000,
+    "LifeExpectancy": 68.7
+  },
+  {
+    "SurfaceArea": 131626,
+    "LifeExpectancy": 78.4
+  },
+  {
+    "SurfaceArea": 143100,
+    "LifeExpectancy": 64.1
+  },
+  {
+    "SurfaceArea": 143998,
+    "LifeExpectancy": 60.2
+  },
+  {
+    "SurfaceArea": 147181,
+    "LifeExpectancy": 57.8
+  },
+  {
+    "SurfaceArea": 163265,
+    "LifeExpectancy": 71.4
+  },
+  {
+    "SurfaceArea": 163610,
+    "LifeExpectancy": 73.7
+  },
+  {
+    "SurfaceArea": 175016,
+    "LifeExpectancy": 75.2
+  },
+  {
+    "SurfaceArea": 181035,
+    "LifeExpectancy": 56.5
+  },
+  {
+    "SurfaceArea": 185180,
+    "LifeExpectancy": 68.5
+  },
+  {
+    "SurfaceArea": 196722,
+    "LifeExpectancy": 62.2
+  },
+  {
+    "SurfaceArea": 199900,
+    "LifeExpectancy": 63.4
+  },
+  {
+    "SurfaceArea": 207600,
+    "LifeExpectancy": 68
+  },
+  {
+    "SurfaceArea": 214969,
+    "LifeExpectancy": 64
+  },
+  {
+    "SurfaceArea": 236800,
+    "LifeExpectancy": 53.1
+  },
+  {
+    "SurfaceArea": 238391,
+    "LifeExpectancy": 69.9
+  },
+  {
+    "SurfaceArea": 238533,
+    "LifeExpectancy": 57.4
+  },
+  {
+    "SurfaceArea": 241038,
+    "LifeExpectancy": 42.9
+  },
+  {
+    "SurfaceArea": 242900,
+    "LifeExpectancy": 77.7
+  },
+  {
+    "SurfaceArea": 245857,
+    "LifeExpectancy": 45.6
+  },
+  {
+    "SurfaceArea": 266000,
+    "LifeExpectancy": 49.8
+  },
+  {
+    "SurfaceArea": 267668,
+    "LifeExpectancy": 50.1
+  },
+  {
+    "SurfaceArea": 270534,
+    "LifeExpectancy": 77.8
+  },
+  {
+    "SurfaceArea": 274000,
+    "LifeExpectancy": 46.7
+  },
+  {
+    "SurfaceArea": 283561,
+    "LifeExpectancy": 71.1
+  },
+  {
+    "SurfaceArea": 300000,
+    "LifeExpectancy": 67.5
+  },
+  {
+    "SurfaceArea": 301316,
+    "LifeExpectancy": 79
+  },
+  {
+    "SurfaceArea": 309500,
+    "LifeExpectancy": 71.8
+  },
+  {
+    "SurfaceArea": 322463,
+    "LifeExpectancy": 45.2
+  },
+  {
+    "SurfaceArea": 323250,
+    "LifeExpectancy": 73.2
+  },
+  {
+    "SurfaceArea": 323877,
+    "LifeExpectancy": 78.7
+  },
+  {
+    "SurfaceArea": 329758,
+    "LifeExpectancy": 70.8
+  },
+  {
+    "SurfaceArea": 331689,
+    "LifeExpectancy": 69.3
+  },
+  {
+    "SurfaceArea": 338145,
+    "LifeExpectancy": 77.4
+  },
+  {
+    "SurfaceArea": 342000,
+    "LifeExpectancy": 47.4
+  },
+  {
+    "SurfaceArea": 357022,
+    "LifeExpectancy": 77.4
+  },
+  {
+    "SurfaceArea": 377829,
+    "LifeExpectancy": 80.7
+  },
+  {
+    "SurfaceArea": 390757,
+    "LifeExpectancy": 37.8
+  },
+  {
+    "SurfaceArea": 406752,
+    "LifeExpectancy": 73.7
+  },
+  {
+    "SurfaceArea": 438317,
+    "LifeExpectancy": 66.5
+  },
+  {
+    "SurfaceArea": 446550,
+    "LifeExpectancy": 69.1
+  },
+  {
+    "SurfaceArea": 447400,
+    "LifeExpectancy": 63.7
+  },
+  {
+    "SurfaceArea": 449964,
+    "LifeExpectancy": 79.6
+  },
+  {
+    "SurfaceArea": 462840,
+    "LifeExpectancy": 63.1
+  },
+  {
+    "SurfaceArea": 475442,
+    "LifeExpectancy": 54.8
+  },
+  {
+    "SurfaceArea": 488100,
+    "LifeExpectancy": 60.9
+  },
+  {
+    "SurfaceArea": 505992,
+    "LifeExpectancy": 78.8
+  },
+  {
+    "SurfaceArea": 513115,
+    "LifeExpectancy": 68.6
+  },
+  {
+    "SurfaceArea": 527968,
+    "LifeExpectancy": 59.8
+  },
+  {
+    "SurfaceArea": 551500,
+    "LifeExpectancy": 78.8
+  },
+  {
+    "SurfaceArea": 580367,
+    "LifeExpectancy": 48
+  },
+  {
+    "SurfaceArea": 581730,
+    "LifeExpectancy": 39.3
+  },
+  {
+    "SurfaceArea": 587041,
+    "LifeExpectancy": 55
+  },
+  {
+    "SurfaceArea": 603700,
+    "LifeExpectancy": 66
+  },
+  {
+    "SurfaceArea": 622984,
+    "LifeExpectancy": 44
+  },
+  {
+    "SurfaceArea": 637657,
+    "LifeExpectancy": 46.2
+  },
+  {
+    "SurfaceArea": 652090,
+    "LifeExpectancy": 45.9
+  },
+  {
+    "SurfaceArea": 676578,
+    "LifeExpectancy": 54.9
+  },
+  {
+    "SurfaceArea": 752618,
+    "LifeExpectancy": 37.2
+  },
+  {
+    "SurfaceArea": 756626,
+    "LifeExpectancy": 75.7
+  },
+  {
+    "SurfaceArea": 774815,
+    "LifeExpectancy": 71
+  },
+  {
+    "SurfaceArea": 796095,
+    "LifeExpectancy": 61.1
+  },
+  {
+    "SurfaceArea": 801590,
+    "LifeExpectancy": 37.5
+  },
+  {
+    "SurfaceArea": 824292,
+    "LifeExpectancy": 42.5
+  },
+  {
+    "SurfaceArea": 883749,
+    "LifeExpectancy": 52.3
+  },
+  {
+    "SurfaceArea": 912050,
+    "LifeExpectancy": 73.1
+  },
+  {
+    "SurfaceArea": 923768,
+    "LifeExpectancy": 51.6
+  },
+  {
+    "SurfaceArea": 1001450,
+    "LifeExpectancy": 63.3
+  },
+  {
+    "SurfaceArea": 1025520,
+    "LifeExpectancy": 50.8
+  },
+  {
+    "SurfaceArea": 1098580,
+    "LifeExpectancy": 63.7
+  },
+  {
+    "SurfaceArea": 1104300,
+    "LifeExpectancy": 45.2
+  },
+  {
+    "SurfaceArea": 1138910,
+    "LifeExpectancy": 70.3
+  },
+  {
+    "SurfaceArea": 1221040,
+    "LifeExpectancy": 51.1
+  },
+  {
+    "SurfaceArea": 1240190,
+    "LifeExpectancy": 46.7
+  },
+  {
+    "SurfaceArea": 1246700,
+    "LifeExpectancy": 38.3
+  },
+  {
+    "SurfaceArea": 1267000,
+    "LifeExpectancy": 41.3
+  },
+  {
+    "SurfaceArea": 1284000,
+    "LifeExpectancy": 50.5
+  },
+  {
+    "SurfaceArea": 1285220,
+    "LifeExpectancy": 70
+  },
+  {
+    "SurfaceArea": 1566500,
+    "LifeExpectancy": 67.3
+  },
+  {
+    "SurfaceArea": 1648200,
+    "LifeExpectancy": 69.7
+  },
+  {
+    "SurfaceArea": 1759540,
+    "LifeExpectancy": 75.5
+  },
+  {
+    "SurfaceArea": 1904570,
+    "LifeExpectancy": 68
+  },
+  {
+    "SurfaceArea": 1958200,
+    "LifeExpectancy": 71.5
+  },
+  {
+    "SurfaceArea": 2149690,
+    "LifeExpectancy": 67.8
+  },
+  {
+    "SurfaceArea": 2166090,
+    "LifeExpectancy": 68.1
+  },
+  {
+    "SurfaceArea": 2344860,
+    "LifeExpectancy": 48.8
+  },
+  {
+    "SurfaceArea": 2381740,
+    "LifeExpectancy": 69.7
+  },
+  {
+    "SurfaceArea": 2505810,
+    "LifeExpectancy": 56.6
+  },
+  {
+    "SurfaceArea": 2724900,
+    "LifeExpectancy": 63.2
+  },
+  {
+    "SurfaceArea": 2780400,
+    "LifeExpectancy": 75.1
+  },
+  {
+    "SurfaceArea": 3287260,
+    "LifeExpectancy": 62.5
+  },
+  {
+    "SurfaceArea": 7741220,
+    "LifeExpectancy": 79.8
+  },
+  {
+    "SurfaceArea": 8547400,
+    "LifeExpectancy": 62.9
+  },
+  {
+    "SurfaceArea": 9363520,
+    "LifeExpectancy": 77.1
+  },
+  {
+    "SurfaceArea": 9572900,
+    "LifeExpectancy": 71.4
+  },
+  {
+    "SurfaceArea": 9970610,
+    "LifeExpectancy": 79.4
+  },
+  {
+    "SurfaceArea": 13120000,
+    "LifeExpectancy": 0
+  },
+  {
+    "SurfaceArea": 17075400,
+    "LifeExpectancy": 67.2
+  }
+]

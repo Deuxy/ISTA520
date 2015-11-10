@@ -1,0 +1,958 @@
+[
+  {
+    "SurfaceArea": 0.4,
+    "Population": 1000
+  },
+  {
+    "SurfaceArea": 1.5,
+    "Population": 34000
+  },
+  {
+    "SurfaceArea": 6,
+    "Population": 25000
+  },
+  {
+    "SurfaceArea": 12,
+    "Population": 2000
+  },
+  {
+    "SurfaceArea": 14,
+    "Population": 600
+  },
+  {
+    "SurfaceArea": 16,
+    "Population": 0
+  },
+  {
+    "SurfaceArea": 18,
+    "Population": 473000
+  },
+  {
+    "SurfaceArea": 21,
+    "Population": 12000
+  },
+  {
+    "SurfaceArea": 26,
+    "Population": 12000
+  },
+  {
+    "SurfaceArea": 36,
+    "Population": 2000
+  },
+  {
+    "SurfaceArea": 49,
+    "Population": 50
+  },
+  {
+    "SurfaceArea": 53,
+    "Population": 65000
+  },
+  {
+    "SurfaceArea": 59,
+    "Population": 0
+  },
+  {
+    "SurfaceArea": 61,
+    "Population": 27000
+  },
+  {
+    "SurfaceArea": 78,
+    "Population": 0
+  },
+  {
+    "SurfaceArea": 96,
+    "Population": 8000
+  },
+  {
+    "SurfaceArea": 102,
+    "Population": 11000
+  },
+  {
+    "SurfaceArea": 135,
+    "Population": 2500
+  },
+  {
+    "SurfaceArea": 151,
+    "Population": 21000
+  },
+  {
+    "SurfaceArea": 160,
+    "Population": 32300
+  },
+  {
+    "SurfaceArea": 181,
+    "Population": 64000
+  },
+  {
+    "SurfaceArea": 193,
+    "Population": 103000
+  },
+  {
+    "SurfaceArea": 199,
+    "Population": 68000
+  },
+  {
+    "SurfaceArea": 200,
+    "Population": 15000
+  },
+  {
+    "SurfaceArea": 236,
+    "Population": 20000
+  },
+  {
+    "SurfaceArea": 242,
+    "Population": 7000
+  },
+  {
+    "SurfaceArea": 260,
+    "Population": 2000
+  },
+  {
+    "SurfaceArea": 261,
+    "Population": 38000
+  },
+  {
+    "SurfaceArea": 264,
+    "Population": 38000
+  },
+  {
+    "SurfaceArea": 298,
+    "Population": 286000
+  },
+  {
+    "SurfaceArea": 314,
+    "Population": 6000
+  },
+  {
+    "SurfaceArea": 316,
+    "Population": 380200
+  },
+  {
+    "SurfaceArea": 344,
+    "Population": 94000
+  },
+  {
+    "SurfaceArea": 347,
+    "Population": 93000
+  },
+  {
+    "SurfaceArea": 359,
+    "Population": 0
+  },
+  {
+    "SurfaceArea": 373,
+    "Population": 149000
+  },
+  {
+    "SurfaceArea": 388,
+    "Population": 114000
+  },
+  {
+    "SurfaceArea": 430,
+    "Population": 270000
+  },
+  {
+    "SurfaceArea": 430,
+    "Population": 17000
+  },
+  {
+    "SurfaceArea": 442,
+    "Population": 68000
+  },
+  {
+    "SurfaceArea": 455,
+    "Population": 77000
+  },
+  {
+    "SurfaceArea": 459,
+    "Population": 19000
+  },
+  {
+    "SurfaceArea": 464,
+    "Population": 78000
+  },
+  {
+    "SurfaceArea": 468,
+    "Population": 78000
+  },
+  {
+    "SurfaceArea": 549,
+    "Population": 168000
+  },
+  {
+    "SurfaceArea": 618,
+    "Population": 3567000
+  },
+  {
+    "SurfaceArea": 622,
+    "Population": 154000
+  },
+  {
+    "SurfaceArea": 650,
+    "Population": 99000
+  },
+  {
+    "SurfaceArea": 694,
+    "Population": 617000
+  },
+  {
+    "SurfaceArea": 702,
+    "Population": 119000
+  },
+  {
+    "SurfaceArea": 726,
+    "Population": 83000
+  },
+  {
+    "SurfaceArea": 751,
+    "Population": 71000
+  },
+  {
+    "SurfaceArea": 800,
+    "Population": 217000
+  },
+  {
+    "SurfaceArea": 964,
+    "Population": 147000
+  },
+  {
+    "SurfaceArea": 1075,
+    "Population": 6782000
+  },
+  {
+    "SurfaceArea": 1102,
+    "Population": 395000
+  },
+  {
+    "SurfaceArea": 1399,
+    "Population": 43000
+  },
+  {
+    "SurfaceArea": 1705,
+    "Population": 456000
+  },
+  {
+    "SurfaceArea": 1862,
+    "Population": 578000
+  },
+  {
+    "SurfaceArea": 2040,
+    "Population": 1158000
+  },
+  {
+    "SurfaceArea": 2510,
+    "Population": 699000
+  },
+  {
+    "SurfaceArea": 2586,
+    "Population": 435700
+  },
+  {
+    "SurfaceArea": 2831,
+    "Population": 180000
+  },
+  {
+    "SurfaceArea": 3903,
+    "Population": 0
+  },
+  {
+    "SurfaceArea": 4000,
+    "Population": 235000
+  },
+  {
+    "SurfaceArea": 4033,
+    "Population": 428000
+  },
+  {
+    "SurfaceArea": 5130,
+    "Population": 1295000
+  },
+  {
+    "SurfaceArea": 5765,
+    "Population": 328000
+  },
+  {
+    "SurfaceArea": 6257,
+    "Population": 3101000
+  },
+  {
+    "SurfaceArea": 7780,
+    "Population": 0
+  },
+  {
+    "SurfaceArea": 8875,
+    "Population": 3869000
+  },
+  {
+    "SurfaceArea": 9251,
+    "Population": 754700
+  },
+  {
+    "SurfaceArea": 10400,
+    "Population": 3282000
+  },
+  {
+    "SurfaceArea": 10990,
+    "Population": 2583000
+  },
+  {
+    "SurfaceArea": 11000,
+    "Population": 599000
+  },
+  {
+    "SurfaceArea": 11295,
+    "Population": 1305000
+  },
+  {
+    "SurfaceArea": 12173,
+    "Population": 2000
+  },
+  {
+    "SurfaceArea": 12189,
+    "Population": 190000
+  },
+  {
+    "SurfaceArea": 13878,
+    "Population": 307000
+  },
+  {
+    "SurfaceArea": 14874,
+    "Population": 885000
+  },
+  {
+    "SurfaceArea": 17364,
+    "Population": 1008000
+  },
+  {
+    "SurfaceArea": 17818,
+    "Population": 1972000
+  },
+  {
+    "SurfaceArea": 18274,
+    "Population": 817000
+  },
+  {
+    "SurfaceArea": 18575,
+    "Population": 214000
+  },
+  {
+    "SurfaceArea": 20256,
+    "Population": 1987800
+  },
+  {
+    "SurfaceArea": 21041,
+    "Population": 6276000
+  },
+  {
+    "SurfaceArea": 21056,
+    "Population": 6217000
+  },
+  {
+    "SurfaceArea": 22696,
+    "Population": 241000
+  },
+  {
+    "SurfaceArea": 23200,
+    "Population": 638000
+  },
+  {
+    "SurfaceArea": 25713,
+    "Population": 2024000
+  },
+  {
+    "SurfaceArea": 26338,
+    "Population": 7733000
+  },
+  {
+    "SurfaceArea": 27750,
+    "Population": 8222000
+  },
+  {
+    "SurfaceArea": 27834,
+    "Population": 6695000
+  },
+  {
+    "SurfaceArea": 28051,
+    "Population": 453000
+  },
+  {
+    "SurfaceArea": 28748,
+    "Population": 3401200
+  },
+  {
+    "SurfaceArea": 28896,
+    "Population": 444000
+  },
+  {
+    "SurfaceArea": 29800,
+    "Population": 3520000
+  },
+  {
+    "SurfaceArea": 30355,
+    "Population": 2153000
+  },
+  {
+    "SurfaceArea": 30518,
+    "Population": 10239000
+  },
+  {
+    "SurfaceArea": 33851,
+    "Population": 4380000
+  },
+  {
+    "SurfaceArea": 36125,
+    "Population": 1213000
+  },
+  {
+    "SurfaceArea": 36188,
+    "Population": 22256000
+  },
+  {
+    "SurfaceArea": 41284,
+    "Population": 7160400
+  },
+  {
+    "SurfaceArea": 41526,
+    "Population": 15864000
+  },
+  {
+    "SurfaceArea": 43094,
+    "Population": 5330000
+  },
+  {
+    "SurfaceArea": 45227,
+    "Population": 1439200
+  },
+  {
+    "SurfaceArea": 47000,
+    "Population": 2124000
+  },
+  {
+    "SurfaceArea": 48511,
+    "Population": 8495000
+  },
+  {
+    "SurfaceArea": 49012,
+    "Population": 5398700
+  },
+  {
+    "SurfaceArea": 51100,
+    "Population": 4023000
+  },
+  {
+    "SurfaceArea": 51197,
+    "Population": 3972000
+  },
+  {
+    "SurfaceArea": 56538,
+    "Population": 4473000
+  },
+  {
+    "SurfaceArea": 56785,
+    "Population": 4629000
+  },
+  {
+    "SurfaceArea": 62422,
+    "Population": 3200
+  },
+  {
+    "SurfaceArea": 64589,
+    "Population": 2424200
+  },
+  {
+    "SurfaceArea": 65301,
+    "Population": 3698500
+  },
+  {
+    "SurfaceArea": 65610,
+    "Population": 18827000
+  },
+  {
+    "SurfaceArea": 69700,
+    "Population": 4968000
+  },
+  {
+    "SurfaceArea": 70273,
+    "Population": 3775100
+  },
+  {
+    "SurfaceArea": 71740,
+    "Population": 4854000
+  },
+  {
+    "SurfaceArea": 75517,
+    "Population": 2856000
+  },
+  {
+    "SurfaceArea": 78866,
+    "Population": 10278100
+  },
+  {
+    "SurfaceArea": 83600,
+    "Population": 2441000
+  },
+  {
+    "SurfaceArea": 83859,
+    "Population": 8091800
+  },
+  {
+    "SurfaceArea": 86600,
+    "Population": 7734000
+  },
+  {
+    "SurfaceArea": 88946,
+    "Population": 5083000
+  },
+  {
+    "SurfaceArea": 90000,
+    "Population": 181000
+  },
+  {
+    "SurfaceArea": 91982,
+    "Population": 9997600
+  },
+  {
+    "SurfaceArea": 93030,
+    "Population": 10043200
+  },
+  {
+    "SurfaceArea": 99434,
+    "Population": 46844000
+  },
+  {
+    "SurfaceArea": 102173,
+    "Population": 10640000
+  },
+  {
+    "SurfaceArea": 103000,
+    "Population": 279000
+  },
+  {
+    "SurfaceArea": 108889,
+    "Population": 11385000
+  },
+  {
+    "SurfaceArea": 110861,
+    "Population": 11201000
+  },
+  {
+    "SurfaceArea": 110994,
+    "Population": 8190900
+  },
+  {
+    "SurfaceArea": 111369,
+    "Population": 3154000
+  },
+  {
+    "SurfaceArea": 112088,
+    "Population": 6485000
+  },
+  {
+    "SurfaceArea": 112622,
+    "Population": 6097000
+  },
+  {
+    "SurfaceArea": 117600,
+    "Population": 3850000
+  },
+  {
+    "SurfaceArea": 118484,
+    "Population": 10925000
+  },
+  {
+    "SurfaceArea": 120538,
+    "Population": 24039000
+  },
+  {
+    "SurfaceArea": 130000,
+    "Population": 5074000
+  },
+  {
+    "SurfaceArea": 131626,
+    "Population": 10545700
+  },
+  {
+    "SurfaceArea": 143100,
+    "Population": 6188000
+  },
+  {
+    "SurfaceArea": 143998,
+    "Population": 129155000
+  },
+  {
+    "SurfaceArea": 147181,
+    "Population": 23930000
+  },
+  {
+    "SurfaceArea": 163265,
+    "Population": 417000
+  },
+  {
+    "SurfaceArea": 163610,
+    "Population": 9586000
+  },
+  {
+    "SurfaceArea": 175016,
+    "Population": 3337000
+  },
+  {
+    "SurfaceArea": 181035,
+    "Population": 11168000
+  },
+  {
+    "SurfaceArea": 185180,
+    "Population": 16125000
+  },
+  {
+    "SurfaceArea": 196722,
+    "Population": 9481000
+  },
+  {
+    "SurfaceArea": 199900,
+    "Population": 4699000
+  },
+  {
+    "SurfaceArea": 207600,
+    "Population": 10236000
+  },
+  {
+    "SurfaceArea": 214969,
+    "Population": 861000
+  },
+  {
+    "SurfaceArea": 236800,
+    "Population": 5433000
+  },
+  {
+    "SurfaceArea": 238391,
+    "Population": 22455500
+  },
+  {
+    "SurfaceArea": 238533,
+    "Population": 20212000
+  },
+  {
+    "SurfaceArea": 241038,
+    "Population": 21778000
+  },
+  {
+    "SurfaceArea": 242900,
+    "Population": 59623400
+  },
+  {
+    "SurfaceArea": 245857,
+    "Population": 7430000
+  },
+  {
+    "SurfaceArea": 266000,
+    "Population": 293000
+  },
+  {
+    "SurfaceArea": 267668,
+    "Population": 1226000
+  },
+  {
+    "SurfaceArea": 270534,
+    "Population": 3862000
+  },
+  {
+    "SurfaceArea": 274000,
+    "Population": 11937000
+  },
+  {
+    "SurfaceArea": 283561,
+    "Population": 12646000
+  },
+  {
+    "SurfaceArea": 300000,
+    "Population": 75967000
+  },
+  {
+    "SurfaceArea": 301316,
+    "Population": 57680000
+  },
+  {
+    "SurfaceArea": 309500,
+    "Population": 2542000
+  },
+  {
+    "SurfaceArea": 322463,
+    "Population": 14786000
+  },
+  {
+    "SurfaceArea": 323250,
+    "Population": 38653600
+  },
+  {
+    "SurfaceArea": 323877,
+    "Population": 4478500
+  },
+  {
+    "SurfaceArea": 329758,
+    "Population": 22244000
+  },
+  {
+    "SurfaceArea": 331689,
+    "Population": 79832000
+  },
+  {
+    "SurfaceArea": 338145,
+    "Population": 5171300
+  },
+  {
+    "SurfaceArea": 342000,
+    "Population": 2943000
+  },
+  {
+    "SurfaceArea": 357022,
+    "Population": 82164700
+  },
+  {
+    "SurfaceArea": 377829,
+    "Population": 126714000
+  },
+  {
+    "SurfaceArea": 390757,
+    "Population": 11669000
+  },
+  {
+    "SurfaceArea": 406752,
+    "Population": 5496000
+  },
+  {
+    "SurfaceArea": 438317,
+    "Population": 23115000
+  },
+  {
+    "SurfaceArea": 446550,
+    "Population": 28351000
+  },
+  {
+    "SurfaceArea": 447400,
+    "Population": 24318000
+  },
+  {
+    "SurfaceArea": 449964,
+    "Population": 8861400
+  },
+  {
+    "SurfaceArea": 462840,
+    "Population": 4807000
+  },
+  {
+    "SurfaceArea": 475442,
+    "Population": 15085000
+  },
+  {
+    "SurfaceArea": 488100,
+    "Population": 4459000
+  },
+  {
+    "SurfaceArea": 505992,
+    "Population": 39441700
+  },
+  {
+    "SurfaceArea": 513115,
+    "Population": 61399000
+  },
+  {
+    "SurfaceArea": 527968,
+    "Population": 18112000
+  },
+  {
+    "SurfaceArea": 551500,
+    "Population": 59225700
+  },
+  {
+    "SurfaceArea": 580367,
+    "Population": 30080000
+  },
+  {
+    "SurfaceArea": 581730,
+    "Population": 1622000
+  },
+  {
+    "SurfaceArea": 587041,
+    "Population": 15942000
+  },
+  {
+    "SurfaceArea": 603700,
+    "Population": 50456000
+  },
+  {
+    "SurfaceArea": 622984,
+    "Population": 3615000
+  },
+  {
+    "SurfaceArea": 637657,
+    "Population": 10097000
+  },
+  {
+    "SurfaceArea": 652090,
+    "Population": 22720000
+  },
+  {
+    "SurfaceArea": 676578,
+    "Population": 45611000
+  },
+  {
+    "SurfaceArea": 752618,
+    "Population": 9169000
+  },
+  {
+    "SurfaceArea": 756626,
+    "Population": 15211000
+  },
+  {
+    "SurfaceArea": 774815,
+    "Population": 66591000
+  },
+  {
+    "SurfaceArea": 796095,
+    "Population": 156483000
+  },
+  {
+    "SurfaceArea": 801590,
+    "Population": 19680000
+  },
+  {
+    "SurfaceArea": 824292,
+    "Population": 1726000
+  },
+  {
+    "SurfaceArea": 883749,
+    "Population": 33517000
+  },
+  {
+    "SurfaceArea": 912050,
+    "Population": 24170000
+  },
+  {
+    "SurfaceArea": 923768,
+    "Population": 111506000
+  },
+  {
+    "SurfaceArea": 1001450,
+    "Population": 68470000
+  },
+  {
+    "SurfaceArea": 1025520,
+    "Population": 2670000
+  },
+  {
+    "SurfaceArea": 1098580,
+    "Population": 8329000
+  },
+  {
+    "SurfaceArea": 1104300,
+    "Population": 62565000
+  },
+  {
+    "SurfaceArea": 1138910,
+    "Population": 42321000
+  },
+  {
+    "SurfaceArea": 1221040,
+    "Population": 40377000
+  },
+  {
+    "SurfaceArea": 1240190,
+    "Population": 11234000
+  },
+  {
+    "SurfaceArea": 1246700,
+    "Population": 12878000
+  },
+  {
+    "SurfaceArea": 1267000,
+    "Population": 10730000
+  },
+  {
+    "SurfaceArea": 1284000,
+    "Population": 7651000
+  },
+  {
+    "SurfaceArea": 1285220,
+    "Population": 25662000
+  },
+  {
+    "SurfaceArea": 1566500,
+    "Population": 2662000
+  },
+  {
+    "SurfaceArea": 1648200,
+    "Population": 67702000
+  },
+  {
+    "SurfaceArea": 1759540,
+    "Population": 5605000
+  },
+  {
+    "SurfaceArea": 1904570,
+    "Population": 212107000
+  },
+  {
+    "SurfaceArea": 1958200,
+    "Population": 98881000
+  },
+  {
+    "SurfaceArea": 2149690,
+    "Population": 21607000
+  },
+  {
+    "SurfaceArea": 2166090,
+    "Population": 56000
+  },
+  {
+    "SurfaceArea": 2344860,
+    "Population": 51654000
+  },
+  {
+    "SurfaceArea": 2381740,
+    "Population": 31471000
+  },
+  {
+    "SurfaceArea": 2505810,
+    "Population": 29490000
+  },
+  {
+    "SurfaceArea": 2724900,
+    "Population": 16223000
+  },
+  {
+    "SurfaceArea": 2780400,
+    "Population": 37032000
+  },
+  {
+    "SurfaceArea": 3287260,
+    "Population": 1013662000
+  },
+  {
+    "SurfaceArea": 7741220,
+    "Population": 18886000
+  },
+  {
+    "SurfaceArea": 8547400,
+    "Population": 170115000
+  },
+  {
+    "SurfaceArea": 9363520,
+    "Population": 278357000
+  },
+  {
+    "SurfaceArea": 9572900,
+    "Population": 1277558000
+  },
+  {
+    "SurfaceArea": 9970610,
+    "Population": 31147000
+  },
+  {
+    "SurfaceArea": 13120000,
+    "Population": 0
+  },
+  {
+    "SurfaceArea": 17075400,
+    "Population": 146934000
+  }
+]
